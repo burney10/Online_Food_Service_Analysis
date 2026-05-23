@@ -55,7 +55,7 @@ The analysis covers customer engagement patterns, satisfaction metrics, occupati
 
 ### **Dashboard Preview**
 
-![Dashboard](dashboard_preview.png)
+![Dashboard](Online_Food_Service_Analysis.png)
 
 ---
 
