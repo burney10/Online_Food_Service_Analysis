@@ -270,7 +270,6 @@ Online_Food_Service_Analysis/
 │
 └── Additional Resources
     ├── Dashboard Screenshots (.png)
-    └── Data Dictionary
 ```
 
 ---
@@ -280,7 +279,7 @@ Online_Food_Service_Analysis/
 **Created By:** Ankan Senapati  
 **Repository:** [GitHub - Online_Food_Service_Analysis](https://github.com/burney10/Online_Food_Service_Analysis)  
 **Tableau Profile:** [Ankan Senapati - Tableau Public](https://public.tableau.com/app/profile/ankan.senapati)  
-**Last Updated:** January 2025  
+**Last Updated:** January 2026  
 
 ---
 
